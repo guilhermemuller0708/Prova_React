@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SuperLojaApplication<provaDev1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.edu.ifrs.restinga.dev1.superLoja.SuperLojaApplication",
+            "projectName": "provaDev1",
+            "args": ""
+        }
+    ]
+}
